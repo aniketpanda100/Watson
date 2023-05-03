@@ -13,5 +13,5 @@ Minimally, you should install:
 
 To run the code, enter the top level directory and type
 
-'mvn clean'
-'mvn test'
+``mvn clean``
+``mvn test``
